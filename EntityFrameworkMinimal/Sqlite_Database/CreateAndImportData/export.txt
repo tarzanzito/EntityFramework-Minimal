@@ -1,0 +1,1 @@
+sqlite3 -header -csv ".\Sqlite_Database\DB-Products_no_indexes.sqlite" "select * from products Limit 500000" > products.csv

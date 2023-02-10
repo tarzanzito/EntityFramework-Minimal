@@ -1,0 +1,10 @@
+sqlite3 DB-Products_no_indexes.sqlite ".import Products2.csv Products --csv --skip 1 -v"
+
+OR
+
+sqllite3
+.open DB-Products_no_indexes.sqlite
+.separator ,  or .separator ',' 
+.mode csv
+.import Products.csv Products --csv --skip 1 -v
+
