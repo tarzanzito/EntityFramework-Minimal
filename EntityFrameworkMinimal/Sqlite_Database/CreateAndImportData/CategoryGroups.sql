@@ -1,4 +1,0 @@
-CREATE TABLE CategoryGroups (
-    Id   INTEGER PRIMARY KEY AUTOINCREMENT,
-    Name TEXT    NOT NULL
-);

@@ -1,0 +1,11 @@
+
+//To read 
+https://stackify.com/net-core-loggerfactory-use-correctly/
+https://www.youtube.com/watch?v=zcTVRP7kKBY
+https://www.youtube.com/watch?v=dZSLm4tOI8o
+
+
+https://azurelessons.com/error-cs1061-iconfigurationbuilder-does-not-contain-definition-for-addenvironmentvariables/
+//secrets
+
+https://docs.datalust.co/docs/microsoft-extensions-logging

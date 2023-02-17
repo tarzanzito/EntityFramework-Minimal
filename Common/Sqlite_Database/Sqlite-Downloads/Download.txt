@@ -1,0 +1,13 @@
+Precompiled Binaries for Windows
+---------------------------------
+
+sqlite-tools-win32-x86-3400100.zip (1.90 MiB)	
+Here is:
+sqlite3.exe
+sqldiff.exe
+sqlite3_analyzer.exe
+
+sqlite-dll-win64-x64-3400100.zip 64-bit DLL (x64) for SQLite version 3.40.1.
+here is:
+sqlite3.def
+sqlite3.dll (x64) 

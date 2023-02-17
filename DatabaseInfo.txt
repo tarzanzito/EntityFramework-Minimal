@@ -1,0 +1,4 @@
+#
+# Open "Common" folder in root soluction
+#
+//https://macoratti.net/20/10/efcore_dbcontext1.htm
